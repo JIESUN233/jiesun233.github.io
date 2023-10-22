@@ -19,13 +19,9 @@ Research Interests
 1. Graph Computing System
 
 Educations
-------
+======
 1. Zhejiang University - Ph.D. in Computer Science - 2021-now
 2. Zhejiang University - B.E. in Electronic Engineering - 2017-2021
-
-Internship
-------
-1. Alibaba - Research Intern - 2020.10 - now
 
 Publication
 ======
@@ -42,6 +38,10 @@ Preprint
 Awards
 ======
 1. Dynamic Sampling Service for Real-time GNN Inference at Scale, Eurosys 2023 Best Posters Awards
+
+Internship
+======
+1. Alibaba - Research Intern - 2020.10 - now
 
 Other Activities
 ======
