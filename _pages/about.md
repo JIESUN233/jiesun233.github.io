@@ -25,16 +25,15 @@ Educations
 
 Internship
 ------
-1. Zhejiang University - Ph.D. in Computer Science - 2021-now
-2. Zhejiang University - B.E. in Electronic Engineering - 2017-2021
+1. Alibaba - Research Intern - 2020.10 - now
 
 Publication
 ======
-1. Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training.
-1. P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs.
-1. SparseACC: A Generalized Linear Model Accelerator for Sparse Datasets.
-1. Staleness-reduction Mini-batch K-means.
-1. SSiMD: Supporting Six Signed Multiplications in a DSP Block for Low-Precision CNN on FPGAs.
+1. Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training. (USENIX ATC 2023)
+1. P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs. (TPDS 2023)
+1. SparseACC: A Generalized Linear Model Accelerator for Sparse Datasets. (TCAD 2023)
+1. Staleness-reduction Mini-batch K-means. (TNNLS 2023)
+1. SSiMD: Supporting Six Signed Multiplications in a DSP Block for Low-Precision CNN on FPGAs. (FPT 2023)
 
 Preprint
 ======
