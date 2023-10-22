@@ -15,33 +15,34 @@ My name is Jie Sun. I'm a third-year Ph.D. student in the Department of Computer
 
 Research Interests
 ======
-1. Machine Learning System
-1. Graph Computing System
+* Machine Learning System
+* Graph Computing System
+* Heterogeneous Hardware
 
 Educations
 ======
-1. Zhejiang University - Ph.D. in Computer Science - 2021-now
-2. Zhejiang University - B.E. in Electronic Engineering - 2017-2021
+* Zhejiang University - Ph.D. in Computer Science - 2021-now
+* Zhejiang University - B.E. in Electronic Engineering - 2017-2021
 
 Publication
 ======
-1. Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training. (USENIX ATC 2023)
-1. P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs. (TPDS 2023)
-1. SparseACC: A Generalized Linear Model Accelerator for Sparse Datasets. (TCAD 2023)
-1. Staleness-reduction Mini-batch K-means. (TNNLS 2023)
-1. SSiMD: Supporting Six Signed Multiplications in a DSP Block for Low-Precision CNN on FPGAs. (FPT 2023)
+Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training. (USENIX ATC 2023) **Jie Sun**, Li Su, Zuocheng Shi, Wenting Shen, Zeke Wang, Lei Wang, Jie Zhang, Wenyuan Yu, Yong Li, Jingren Zhou, Fei Wu
+P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs. (TPDS 2023) Hongjing Huang, Yingtao Li, **Jie Sun**, Xueying Zhu, Jie Zhang, Liang Luo, Jialin Li, Zeke Wang
+SparseACC: A Generalized Linear Model Accelerator for Sparse Datasets. (TCAD 2023) Jie Zhang, Hongjing Huang, **Jie Sun**, Juan Gómez Luna, Onur Mutlu, Zeke Wang
+Staleness-reduction Mini-batch K-means. (TNNLS 2023) Xueying Zhu, **Jie Sun**, Zhenhao He, Jiantong Jiang, Zeke Wang
+SSiMD: Supporting Six Signed Multiplications in a DSP Block for Low-Precision CNN on FPGAs. (FPT 2023) Qi Liu, Mo Sun, **Jie Sun**, Liqiang Lu, Jieru Zhao, Zeke Wang
 
 Preprint
 ======
-1. Helios: An Efficient Out-of-core GNN Training System on Terabyte-scale Graphs with In-memory Performance.
+* Helios: An Efficient Out-of-core GNN Training System on Terabyte-scale Graphs with In-memory Performance. **Jie Sun**, Mo Sun, Zheng Zhang, Jun Xie, Zuocheng Shi, Zihan Yang, Jie Zhang, Fei Wu, Zeke Wang
 
 Awards
 ======
-1. Dynamic Sampling Service for Real-time GNN Inference at Scale, Eurosys 2023 Best Posters Awards
+* Dynamic Sampling Service for Real-time GNN Inference at Scale, Eurosys 2023 Best Posters Awards
 
 Internship
 ======
-1. Alibaba - Research Intern - 2020.10 - now
+Alibaba - Research Intern - 2020.10 - now
 
 Other Activities
 ======
