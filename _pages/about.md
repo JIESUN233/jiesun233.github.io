@@ -26,7 +26,7 @@ Educations
 
 Publication
 ======
-* Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training. **[USENIX ATC 2023]** **Jie Sun**, Li Su, Zuocheng Shi, Wenting Shen, Zeke Wang, Lei Wang, Jie Zhang, Wenyuan Yu, Yong Li, Jingren Zhou, Fei Wu
+* Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training. **[USENIX ATC 2023]** **Jie Sun**, Li Su, Zuocheng Shi, Wenting Shen, Zeke Wang, Lei Wang, Jie Zhang, Wenyuan Yu, Yong Li, Jingren Zhou, Fei Wu. Source codes: https://github.com/RC4ML/Legion
 * P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs. **[TPDS 2023]** Hongjing Huang, Yingtao Li, **Jie Sun**, Xueying Zhu, Jie Zhang, Liang Luo, Jialin Li, Zeke Wang
 * SparseACC: A Generalized Linear Model Accelerator for Sparse Datasets. **[TCAD 2023]** Jie Zhang, Hongjing Huang, **Jie Sun**, Juan Gómez Luna, Onur Mutlu, Zeke Wang
 * Staleness-reduction Mini-batch K-means. **[TNNLS 2023]** Xueying Zhu, **Jie Sun**, Zhenhao He, Jiantong Jiang, Zeke Wang
