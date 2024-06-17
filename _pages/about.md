@@ -41,7 +41,18 @@ Internship
 ======
 * Alibaba - Research Intern - 2020.10 - 2024.6
 
+Awards
+======
+* Alibaba Outstanding Research Intern, 2024
+* Eurosys Best Poster Award, 2023
+* Zhejiang University Outstanding Graduate Student, 2023
+* Alibaba-Zhejiang University Joint Institute of Frontier Technologies (AZFT) Annual Outstanding Research Intern, 2021
+
 Other Activities
 ======
 * Teaching Assistant - GPU Programming in AI System - 2022, 2023, 2024 - Zhejiang University
 
+Contacts
+======
+* jiesun@zju.edu.cn
+* sunjie2016_10 (wechat)
