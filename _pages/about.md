@@ -15,7 +15,7 @@ My name is Jie Sun. I'm a third-year Ph.D. student in the Department of Computer
 
 Research Interests
 ======
-* Multimodal AI Infrastructure
+* Multimodal AI Infrastructure (in the Large Model Era)
 * Heterogeneous Hardware
 
 ![overview](https://github.com/JIESUN233/jiesun233.github.io/assets/109936863/dabf5930-bf7f-4273-bdfa-b417501223fa)
