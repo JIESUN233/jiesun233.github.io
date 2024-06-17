@@ -11,11 +11,11 @@ redirect_from:
 
 About Me
 ======
-My name is Jie Sun. I'm a third-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Prof. Zeke Wang and Prof. Fei Wu. My recent projects focus on building multimodal (graph, recommender, vision) machine learning systems with heterogeneous hardware (GPU, FPGA, SSD).
+My name is Jie Sun. I'm a third-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Prof. Zeke Wang and Prof. Fei Wu. My recent projects focus on building multimodal (graph, recommender, vision) AI infrastructure with heterogeneous hardware (GPU, FPGA, SSD).
 
 Research Interests
 ======
-* Multimodal Machine Learning System
+* Multimodal AI Infrastructure
 * Heterogeneous Hardware
 
 ![overview](https://github.com/JIESUN233/jiesun233.github.io/assets/109936863/dabf5930-bf7f-4273-bdfa-b417501223fa)
