@@ -19,7 +19,7 @@ Research Interests
 * Graph Computing System
 * Heterogeneous Hardware
 
-Educations
+Education
 ======
 * Zhejiang University - Ph.D. in Computer Science - 2021.9-now
 * Zhejiang University - B.E. in Electronic Engineering - 2017.9-2021.6
@@ -41,5 +41,5 @@ Internship
 
 Other Activities
 ======
-* Teaching Assistant - GPU Programming in AI System - 2022, 2023 - Zhejiang University
+* Teaching Assistant - GPU Programming in AI System - 2022, 2023, 2024 - Zhejiang University
 
