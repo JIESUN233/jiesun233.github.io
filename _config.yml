@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Jiani Yang"
+name                     : &name "Jie Sun"
 description              : &description "Ph.D. student at Zhejiang University"
-url                      : https://yplusone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiesun233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yplusone/yplusone.github.io"
+repository               : "jiesun233/jiesun233.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiani Yang"
+  name             : "Jie Sun"
   avatar           : "profile.png"
-  bio              : "All is well"
+  bio              : "System Researcher"
   location         : "Hangzhou, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=ZTf_EpoAAAAJ"
-  email            : "jianiyang_cs@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=h8MlCpIAAAAJ&hl=en&oi=sra"
+  email            : "jiesun@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -93,14 +93,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yplusone"
+  github           : "jiesun233"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0009-0005-8290-7267"
+  LinkedIn         : "https://www.linkedin.com/in/%E6%9D%B0-%E5%AD%99-091655324/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
