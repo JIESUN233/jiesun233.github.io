@@ -41,7 +41,7 @@ Publications
 <p style="font-size: 16px;">
   <li>
   <b>Helios: Efficient Distributed Dynamic Graph Sampling for Online GNN Inference</b><br>
-  <b>Jie Sun</b>, Zuocheng Shi, Li Su, Wenting Shen, Zeke Wang, Yong Li, Wenyuan Yu, Wei Lin, Fei Wu, Bingsheng He, Jingren Zhou<br>
+  <b>Jie Sun</b><sup>*</sup>, Zuocheng Shi<sup>*</sup>, Li Su, Wenting Shen, Zeke Wang, Yong Li, Wenyuan Yu, Wei Lin, Fei Wu, Bingsheng He, Jingren Zhou. <sup>*</sup>: Contributed equally to this project.<br>
   <i>Annual Symposium on Principles and Practice of Parallel Programming (<b>PPoPP</b>), 2025</i><br>
   <a href="coming soon" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/alibaba/graph-learn" target="_blank" style="text-decoration: none;">[Code]</a><br>
@@ -55,7 +55,7 @@ Publications
   Meng Zhang<sup>*</sup>,  <b>Jie Sun</b><sup>*</sup>, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang.  <sup>*</sup>: Contributed equally to this project.<br>
   <i>International Conference for High Performance Computing, Networking, Storage, and Analysis (<b>SC</b>), 2024</i><br>
   <a href="https://arxiv.org/pdf/2407.14106" target="_blank" style="text-decoration: none;">[Paper]</a>
-  A step forward from GNN systems. Graph transformers achieve higher capabilities to capture global/long-range effects than GNNs. However, the quadratic computation cost of self-attention makes it hard to scale. We propose TorchGT with algorithm and system co-design to accelerate Graph Transformer training and scale up to over 1M sequence length.
+  Graph transformers achieve higher capabilities to capture global/long-range effects than GNNs. However, the quadratic computation cost of self-attention makes it hard to scale. We propose TorchGT with algorithm and system co-design to accelerate Graph Transformer training and scale up to over 1M sequence length.
   </li>
 </p>
 
