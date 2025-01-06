@@ -84,20 +84,23 @@ Publications
 </p>
 <p style="margin: -10px 0;"></p>
 
+Education
+======
 <p style="font-size: 16px;">
-  <b>Education</b><br>
   [Sep. 2021 - Present] Zhejiang University, Ph.D. student in Computer Science (CS)<br>
   [Sep. 2017 – Jun. 2021] Zhejiang University, B.S. in Electronic Engineering (EE)<br>
 </p>
 
+Internship
+======
 <p style="font-size: 16px;">
-  <b>Internship</b><br>
   [June 2024 -- Present] Research Intern, NUS Xtra Group, supervised by Bingsheng He<br>
   [Nov 2020 - June 2024] Research Intern, Alibaba Group<br>
 </p>
 
+Awards
+======
 <p style="font-size: 16px;">
-  <b>Awards</b><br>
   [Jan. 2024] Alibaba Outstanding Research Intern (by Tongyi Lab)<br>
   [Jan. 2023] Eurosys Best Poster Award, for the early work of Helios<br>
   [June. 2023] Outstanding Graduate Student of Zhejiang University<br>
