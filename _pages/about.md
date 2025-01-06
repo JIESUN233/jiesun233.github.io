@@ -36,7 +36,7 @@ Publications
 - **SC 2024: TorchGT: A Holistic System for Large-scale Graph Transformer Training**
 [[paper]](https://arxiv.org/pdf/2407.14106)
 
-  Meng Zhang[^1], **Jie Sun[^1]**, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang.  [^1]: Contributed equally to this project.
+  Meng Zhang^, **Jie Sun^**, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang.  ^: Contributed equally to this project.
   
   A step forward from GNN systems. Graph transformers achieve higher capabilities to capture global/long-range effects than GNNs. However, the quadratic computation cost of self-attention makes it hard to scale. We propose TorchGT with algorithm and system co-design to accelerate Graph Transformer training and scale up to over 1M sequence length.
 
