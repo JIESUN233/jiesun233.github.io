@@ -18,7 +18,7 @@ Publications
 <p style="font-size: 16px;">
   <li>
   <b>Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training</b><br>
-  <b>Jie Sun</b><sup>*</sup>, Li Su, Zuocheng Shi, Wenting Shen, Zeke Wang, Lei Wang, Jie Zhang, Wenyuan Yu, Yong Li, Jingren Zhou, Fei Wu<br>
+  <b>Jie Sun</b>, Li Su, Zuocheng Shi, Wenting Shen, Zeke Wang, Lei Wang, Jie Zhang, Wenyuan Yu, Yong Li, Jingren Zhou, Fei Wu<br>
   <i>USENIX Annual Technical Conference (<b>ATC</b>), 2023</i> &nbsp;<em class="blue"></em><br>
   <a href="https://www.usenix.org/system/files/atc23-sun.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/RC4ML/Legion" target="_blank" style="text-decoration: none;">[Code]</a><br>
@@ -52,7 +52,7 @@ Publications
 <p style="font-size: 16px;">
   <li>
   <b>TorchGT: A Holistic System for Large-scale Graph Transformer Training</b><br>
-  Meng Zhang^,  <b>Jie Sun^</b>, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang.  ^: Contributed equally to this project.<br>
+  Meng Zhang<sup>*</sup>,  <b>Jie Sun</b><sup>*</sup>, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang.  <sup>*</sup>: Contributed equally to this project.<br>
   <i>International Conference for High Performance Computing, Networking, Storage, and Analysis (<b>SC</b>), 2024</i><br>
   <a href="https://arxiv.org/pdf/2407.14106" target="_blank" style="text-decoration: none;">[Paper]</a>
   A step forward from GNN systems. Graph transformers achieve higher capabilities to capture global/long-range effects than GNNs. However, the quadratic computation cost of self-attention makes it hard to scale. We propose TorchGT with algorithm and system co-design to accelerate Graph Transformer training and scale up to over 1M sequence length.
