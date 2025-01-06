@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-  Hello, I'm Jie Sun. I am a fourth-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. 
+  Hello, I'm Jie Sun. I am a fourth-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. I like building efficient and scalable machine learning systems that leverage heterogeneous hardware, such as NVMe SSDs and GPUs, to address large-scale challenges coming from the industry. Currently, I am collaborating with Alibaba on developing a large-scale LLM-based recommendation system, which is expected to be released in the coming months.
 </p>
 <p style="margin: 30px 0;"></p>
 
