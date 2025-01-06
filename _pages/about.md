@@ -63,7 +63,7 @@ Publications
   <li>
   <b>SSiMD: Supporting Six Signed Multiplications in a DSP Block for Low-Precision CNN on FPGAs</b><br>
   Qi Liu, Mo Sun, <b>Jie Sun</b> Liqiang Lu, Jieru Zhao, Zeke Wang<br>
-  <i>International Conference on Field-Programmable Technology (<b>FPT</b>), 2023</i> <be>
+  <i>International Conference on Field-Programmable Technology (<b>FPT</b>), 2023</i> <br>
   </li>
 </p>
 
@@ -71,7 +71,7 @@ Publications
   <li>
   <b>SparseACC: A Generalized Linear Model Accelerator for Sparse Datasets</b><br>
   Jie Zhang, Hongjing Huang, <b>Jie Sun</b> Juan G ́omez Luna, Onur Mutlu, Zeke Wang<br>
-  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>), 2023</i><be>
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>), 2023</i><br>
   </li>
 </p>
 
