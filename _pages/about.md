@@ -67,23 +67,25 @@ Publications
   Hongjing Huang, Yingtao Li, <b>Jie Sun</b> Xueying Zhu, Jie Zhang, Liang Luo, Jialin Li, Zeke Wang<br>
   <i>IEEE Transactions Parallel and Distributed System (<b>TPDS</b>), 2023</i><br>
 </p>
-
-
 <p style="margin: -10px 0;"></p>
 
-Education
-======
-- [Sep. 2021 - Present] Zhejiang University, Ph.D student in Computer Science (CS)
-- [Sep. 2017 – Jun. 2021] Zhejiang University, B.S. in Electronic Engineering (EE)
+<p style="font-size: 16px;">
+  <b>Education</b><br>
+  [Sep. 2021 - Present] Zhejiang University, Ph.D. student in Computer Science (CS)<br>
+  [Sep. 2017 – Jun. 2021] Zhejiang University, B.S. in Electronic Engineering (EE)<br>
+</p>
 
-Internship
-======
-- [June 2024 -- Present] Research Intern, NUS Xtra Group, supervised by Bingsheng He
-- [Nov 2020 - June 2024] Research Intern, Alibaba Group
+<p style="font-size: 16px;">
+  <b>Internship</b><br>
+  [June 2024 -- Present] Research Intern, NUS Xtra Group, supervised by Bingsheng He<br>
+  [Nov 2020 - June 2024] Research Intern, Alibaba Group<br>
+</p>
 
-Awards
-======
-- [Jan. 2014] Alibaba Outstanding Research Intern (by Tongyi Lab)
-- [Jan. 2023] Eurosys Best Poster Award, for the early work of Helios
-- [June. 2023] Outstanding Graduate Student of Zhejiang University
-- [Jan. 2021] Alibaba-Zhejiang University Joint Institute of Frontier Technologies（AZFT）Annual Outstanding Research Intern
+<p style="font-size: 16px;">
+  <b>Awards</b><br>
+  [Jan. 2024] Alibaba Outstanding Research Intern (by Tongyi Lab)<br>
+  [Jan. 2023] Eurosys Best Poster Award, for the early work of Helios<br>
+  [June. 2023] Outstanding Graduate Student of Zhejiang University<br>
+  [Jan. 2021] Alibaba-Zhejiang University Joint Institute of Frontier Technologies（AZFT）Annual Outstanding Research Intern<br>
+</p>
+
