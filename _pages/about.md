@@ -43,7 +43,7 @@ Publications
   <b>Helios: Efficient Distributed Dynamic Graph Sampling for Online GNN Inference</b><br>
   <b>Jie Sun</b><sup>*</sup>, Zuocheng Shi<sup>*</sup>, Li Su, Wenting Shen, Zeke Wang, Yong Li, Wenyuan Yu, Wei Lin, Fei Wu, Bingsheng He, Jingren Zhou. <sup>*</sup>: Contributed equally to this project.<br>
   <i>Annual Symposium on Principles and Practice of Parallel Programming (<b>PPoPP</b>), 2025</i><br>
-  <a href="coming soon" target="_blank" style="text-decoration: none;">[Paper]</a>
+  <a href="https://github.com/JIESUN233/jiesun233.github.io/blob/master/files/Helios_PPoPP%20(32).pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/alibaba/graph-learn" target="_blank" style="text-decoration: none;">[Code]</a><br>
   We build Helios, a distributed dynamic graph sampling service for online GNN inference. Helios can achieve millisecond-level sampling latency on rapidly updated dynamic graphs and can linearly scale out. Helios is now part of Alibaba Graph-Learn, an industrial GNN framework. See dynamic sampling services for more details (https://graph-learn.readthedocs.io/en/latest/en/dgs/intro.html).
   </li>
