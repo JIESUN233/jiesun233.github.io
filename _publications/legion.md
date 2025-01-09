@@ -7,6 +7,4 @@ date: 2023-7
 venue: 'USENIX ATC 2023'
 paperurl: 'https://www.usenix.org/system/files/atc23-sun.pdf'
 ---
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." `<i>`Journal 1`</i>`. 1(3).
+[Download paper here](https://www.usenix.org/system/files/atc23-sun.pdf)
