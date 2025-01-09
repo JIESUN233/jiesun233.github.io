@@ -31,7 +31,7 @@ Publications
   <b>Hyperion: Optimizing SSD Access is All You Need to Enable Cost-efficient Out-of-core GNN Training</b><br>
   <b>Jie Sun</b>, Mo Sun, Zheng Zhang, Zuocheng Shi, Jun Xie, Zihan Yang, Jie Zhang, Fei Wu, Zeke Wang<br>
   <i>IEEE International Conference on Data Engineering (<b>ICDE</b>), 2025</i><br>
-  <a href="https://arxiv.org/pdf/2310.00837v1" target="_blank" style="text-decoration: none;">[Paper]</a>
+  <a href="../files/Hyperion_ICDE_25_final.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   <a href="https://github.com/RC4ML/Hyperion" target="_blank" style="text-decoration: none;">[Code]</a><br>
   We build Hyperion, a cost-efficient out-of-core GNN training system that can achieve in-memory-like throughput on terabyte-scale graphs with some cheap NVMe SSDs. We also propose a GPU-initiated asynchronous disk IO stack to saturate SSDs with only a few GPU cores. We believe the asynchronous disk IO stack can be further applied to other out-of-core applications like DLRM, LLM inference (KVCache in disk), and RAG systems.
   </li>
