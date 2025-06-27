@@ -51,6 +51,17 @@ Publications
 
 <p style="font-size: 16px;">
   <li>
+  <b>Moment: Co-optimizing Physical 
+Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training. </b><br>
+  Zuocheng Shi<sup>*</sup>, <b>Jie Sun</b><sup>*</sup>, Ziyu Song, Mo Sun, Yang Xiao, Fei Wu, Bingsheng He, Zeke Wang. <sup>*</sup>: Contributed equally to this project.<br>
+  <i>International Conference for High Performance Computing, Networking, Storage, and Analysis (<b>SC, Best Student Paper Finalist</b>), 2025</i><br>
+  To appear.
+  We propose Moment, a physical communication topology and data placement co-optimizer to enable high-throughput and low-cost GNN training in a multi-GPU machine. Moment addresses communication contention and GPU load imbalance issues by modeling the physical topology as capacity-constrained directed graphs and formulating communication scheduling as a max-flow problem. It also introduces a data-distribution-aware knapsack algorithm for optimized data placement.
+  </li>
+</p>
+
+<p style="font-size: 16px;">
+  <li>
   <b>TorchGT: A Holistic System for Large-scale Graph Transformer Training</b><br>
   Meng Zhang<sup>*</sup>,  <b>Jie Sun</b><sup>*</sup>, Qinghao Hu, Peng Sun, Zeke Wang, Yonggang Wen, Tianwei Zhang.  <sup>*</sup>: Contributed equally to this project.<br>
   <i>International Conference for High Performance Computing, Networking, Storage, and Analysis (<b>SC</b>), 2024</i><br>
