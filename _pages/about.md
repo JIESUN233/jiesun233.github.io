@@ -112,8 +112,9 @@ Internship
 Awards
 ======
 <p style="font-size: 16px;">
+  [June. 2025] SC 25 Best Student Paper Finalist<br>
   [Jan. 2024] Alibaba Outstanding Research Intern (by Tongyi Lab)<br>
-  [Jan. 2023] Eurosys Best Poster Award, for the early work of Helios<br>
+  [Jan. 2023] Eurosys 23 Best Poster Award, for the early work of Helios<br>
   [June. 2023] Outstanding Graduate Student of Zhejiang University<br>
   [Jan. 2021] Alibaba-Zhejiang University Joint Institute of Frontier Technologies（AZFT）Annual Outstanding Research Intern<br>
 </p>
