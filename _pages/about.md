@@ -9,12 +9,22 @@ redirect_from:
 ---
 
 <p>
-  Hello, I'm Jie Sun. I am a fourth-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. I like building efficient and scalable machine learning systems (for GNN, DLRM, and LLM) that leverage heterogeneous hardware, such as NVMe SSDs and GPUs, to address large-scale challenges coming from the industry. Currently, I am collaborating with Alibaba on developing a large-scale recommendation system, which is expected to be released in the coming months.
+  Hello, I'm Jie Sun. I am a final-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. I like building efficient and scalable machine learning systems (for GNN, DLRM, and LLM) that leverage heterogeneous hardware, such as NVMe SSDs and GPUs, to address large-scale challenges coming from the industry. Currently, I am collaborating with Alibaba on developing a large-scale recommendation system.
 </p>
 <p style="margin: 30px 0;"></p>
 
 Publications
 ======
+<p style="font-size: 16px;">
+  <li>
+  <b>BAT: Efficient Generative Recommender Serving with Bipartite Attention</b><br>
+  <b>Jie Sun</b>, Shaohang Wang, Zimo Zhang, Zhengyu Liu, Yunlong Xu, Peng Sun, Bo Zhao, Bingsheng He, Fei Wu, Zeke Wang<br>
+  <i>International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2026</i> &nbsp;<em class="blue"></em><br>
+  To appear.
+  Model-system co-design to accelerate generative recommender serving.
+  </li>
+</p>
+
 <p style="font-size: 16px;">
   <li>
   <b>Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training</b><br>
@@ -92,6 +102,16 @@ Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training
   Hongjing Huang, Yingtao Li, <b>Jie Sun</b>, Xueying Zhu, Jie Zhang, Liang Luo, Jialin Li, Zeke Wang<br>
   <i>IEEE Transactions Parallel and Distributed System (<b>TPDS</b>), 2023</i><br>
   </li>
+</p>
+<p style="margin: -10px 0;"></p>
+
+<p style="font-size: 16px;">
+  <li>
+  <b>FlashANNS: GPU-Driven Asynchronous I/O Pipelining for Eliminating Storage-Compute Bottlenecks in Billion-Scale Similarity Search</b><br>
+  Yang Xiao, Mo Sun, Ziyu Song, Bing Tian, <b>Jie Sun</b>, Jie Zhang, Zeke Wang, Zonghui Wang, Wenzhi Chen, Fei Wu<br>
+  <i> ACM Special Interest Group on Management of Data (<b>SIGMOD</b>), 2026</i><br>
+  </li>
+  To appear.
 </p>
 <p style="margin: -10px 0;"></p>
 
