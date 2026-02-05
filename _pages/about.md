@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-  Hello, I'm Jie Sun. I am a final-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. I like building efficient and scalable machine learning systems (for GNN, DLRM, and LLM) that leverage heterogeneous hardware, such as NVMe SSDs and GPUs, to address large-scale challenges coming from the industry. Currently, I am collaborating with Alibaba on developing a large-scale recommendation system.
+  Hello, I'm Jie Sun. I am a final-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. I like building efficient and scalable machine learning systems (for GNN, DLRM, and LLM) that leverage heterogeneous hardware, such as NVMe SSDs and GPUs, to address large-scale challenges coming from the industry. I am actively pursuing industry positions and have already been selected for the top talent tracks at Bytedance, Alibaba, Tencent, Ant and Huawei.
 </p>
 <p style="margin: 30px 0;"></p>
 
@@ -125,7 +125,8 @@ Education
 Internship
 ======
 <p style="font-size: 16px;">
-  [June 2024 -- Present] Research Intern, NUS Xtra Group, supervised by Bingsheng He<br>
+  [July 2025 -- Today] Research Intern, Taobao & Tmall Group of Alibaba, Focus on Generative Recommender System<br>
+  [June 2024 -- July 2025] Research Intern, NUS Xtra Group, supervised by Bingsheng He<br>
   [Nov 2020 - June 2024] Research Intern, Alibaba Group<br>
 </p>
 
