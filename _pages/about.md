@@ -38,7 +38,7 @@ Publications
 
 <p style="font-size: 16px;">
   <li>
-  <b>Hyperion: Optimizing SSD Access is All You Need to Enable Cost-efficient Out-of-core GNN Training</b><br>
+  <b>Hyperion: Co-optimizing SSD Access and GPU Computation for Cost-efficient Out-of-core GNN Training</b><br>
   <b>Jie Sun</b>, Mo Sun, Zheng Zhang, Zuocheng Shi, Jun Xie, Zihan Yang, Jie Zhang, Fei Wu, Zeke Wang<br>
   <i>IEEE International Conference on Data Engineering (<b>ICDE</b>), 2025</i><br>
   <a href="../files/Hyperion_ICDE_25_final.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
@@ -118,7 +118,7 @@ Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training
 Education
 ======
 <p style="font-size: 16px;">
-  [Sep. 2021 - Present] Zhejiang University, Ph.D. student in Computer Science (CS)<br>
+  [Sep. 2021 - Jun. 2026] Zhejiang University, Ph.D. in Computer Science (CS)<br>
   [Sep. 2017 – Jun. 2021] Zhejiang University, B.S. in Electronic Engineering (EE)<br>
 </p>
 
@@ -127,7 +127,7 @@ Internship
 <p style="font-size: 16px;">
   [July 2025 -- Today] Research Intern, Taobao & Tmall Group of Alibaba, Focus on Generative Recommender System<br>
   [June 2024 -- July 2025] Research Intern, NUS Xtra Group, supervised by Bingsheng He<br>
-  [Nov 2020 - June 2024] Research Intern, Alibaba Group<br>
+  [Nov 2020 - June 2024] Research Intern, Tongyi Lab of Alibaba Group<br>
 </p>
 
 Awards
