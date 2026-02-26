@@ -20,8 +20,8 @@ Publications
   <b>BAT: Efficient Generative Recommender Serving with Bipartite Attention</b><br>
   <b>Jie Sun</b>, Shaohang Wang, Zimo Zhang, Zhengyu Liu, Yunlong Xu, Peng Sun, Bo Zhao, Bingsheng He, Fei Wu, Zeke Wang<br>
   <i>International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2026</i> &nbsp;<em class="blue"></em><br>
-  To appear.
-  Model-system co-design to accelerate generative recommender serving.
+  <a href="../files/bat-asplos26-sun.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
+  We propose a model-system co-design to accelerate generative recommender serving. The key idea is to selectively use User-as-prefix attention and Item-as-prefix attention to improve KV cache utilization while maintaining accuracy.
   </li>
 </p>
 
@@ -65,7 +65,7 @@ Publications
 Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training. </b><br>
   Zuocheng Shi<sup>*</sup>, <b>Jie Sun</b><sup>*</sup>, Ziyu Song, Mo Sun, Yang Xiao, Fei Wu, Bingsheng He, Zeke Wang. <sup>*</sup>: Contributed equally to this project.<br>
   <i>International Conference for High Performance Computing, Networking, Storage, and Analysis (<b>SC, Best Student Paper Finalist</b>), 2025</i><br>
-  To appear.
+  <a href="../files/Moment_ Co-optimizing Physical Communication Topology and Data Placement for Multi-GPU Out-of-core GNN Training.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
   We propose Moment, a physical communication topology and data placement co-optimizer to enable high-throughput and low-cost GNN training in a multi-GPU machine. Moment addresses communication contention and GPU load imbalance issues by modeling the physical topology as capacity-constrained directed graphs and formulating communication scheduling as a max-flow problem. It also introduces a data-distribution-aware knapsack algorithm for optimized data placement.
   </li>
 </p>
