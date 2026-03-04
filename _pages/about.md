@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-  Hello, I'm Jie Sun. I am a final-year Ph.D. student in the Department of Computer Science at Zhejiang University, supervised by Zeke Wang and Fei Wu. My areas of interest include machine learning systems, graph computing, and recommendation systems. I like building efficient and scalable machine learning systems (for GNN, DLRM, and LLM) that leverage heterogeneous hardware, such as NVMe SSDs and GPUs, to address large-scale challenges coming from the industry. I am actively pursuing industry positions and have already been selected for the top talent tracks at Bytedance, Alibaba, Tencent, Ant and Huawei.
+  I am Jie Sun, a final-year Ph.D. student in the Department of Computer Science at Zhejiang University, under the supervision of Zeke Wang and Fei Wu. My research focuses on the intersection of AI algorithms and AI infrastructure. I have previously worked on building efficient and scalable systems for GNN, DLRM, and LLM, utilizing heterogeneous hardware such as NVMe SSDs and GPUs. Currently, I am exploring algorithm-system co-design, with a particular emphasis on pushing the boundaries of large model training and deployment, such as scaling large recommendation models within ultra-low latency constraints. I am actively pursuing industry opportunities and have been selected for top talent tracks at ByteDance, Alibaba, Tencent, Ant Group, and Huawei.
 </p>
 <p style="margin: 30px 0;"></p>
 
@@ -20,8 +20,9 @@ Publications
   <b>BAT: Efficient Generative Recommender Serving with Bipartite Attention</b><br>
   <b>Jie Sun</b>, Shaohang Wang, Zimo Zhang, Zhengyu Liu, Yunlong Xu, Peng Sun, Bo Zhao, Bingsheng He, Fei Wu, Zeke Wang<br>
   <i>International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2026</i> &nbsp;<em class="blue"></em><br>
-  <a href="../files/bat-asplos26-sun.pdf" target="_blank" style="text-decoration: none;">[Paper]</a>
-  We propose a model-system co-design to accelerate generative recommender serving. The key idea is to selectively use User-as-prefix attention and Item-as-prefix attention to improve KV cache utilization while maintaining accuracy.
+  <a href="../files/bat-asplos26-sun.pdf" target="_blank" style="text-decoration: none;">
+  [Paper]</a>
+  We propose a model-system co-design to accelerate generative recommender serving. The key idea is to selectively use User-as-prefix attention and Item-as-prefix attention to improve KV cache utilization while maintaining accuracy. We have validated the key algorithm with production workloads.
   </li>
 </p>
 
@@ -125,7 +126,7 @@ Education
 Internship
 ======
 <p style="font-size: 16px;">
-  [July 2025 -- Today] Research Intern, Taobao & Tmall Group of Alibaba, Focus on Generative Recommender System<br>
+  [July 2025 -- March 2026] Research Intern, Taobao & Tmall Group of Alibaba, Focus on Generative Recommender System<br>
   [June 2024 -- July 2025] Research Intern, NUS Xtra Group, supervised by Bingsheng He<br>
   [Nov 2020 - June 2024] Research Intern, Tongyi Lab of Alibaba Group<br>
 </p>
