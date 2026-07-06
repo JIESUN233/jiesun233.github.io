@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-  I am Jie Sun, a final-year Ph.D. student in the Department of Computer Science at Zhejiang University, under the supervision of Zeke Wang and Fei Wu. My research focuses on the intersection of AI algorithms and AI infrastructure. I have previously worked on building efficient and scalable systems for GNN, DLRM, and LLM, utilizing heterogeneous hardware such as NVMe SSDs and GPUs. Currently, I am exploring algorithm-system co-design, with a particular emphasis on pushing the boundaries of large model training and deployment, such as scaling large recommendation models within ultra-low latency constraints. I am actively pursuing industry opportunities and have been selected for top talent tracks at ByteDance, Alibaba, Tencent, Ant Group, and Huawei.
+  I am Jie Sun. I'm working on AI infrastructure at Bytedance. I got my Ph.D. from the Department of Computer Science at Zhejiang University, under the supervision of Zeke Wang and Fei Wu. My research focuses on the intersection of AI algorithms and AI infrastructure. I have previously worked on building efficient and scalable systems for GNN, DLRM, and LLM, utilizing heterogeneous hardware such as NVMe SSDs and GPUs. Currently, I am exploring algorithm-system co-design, with a particular emphasis on pushing the boundaries of large model training and deployment, such as scaling large recommendation models within ultra-low latency constraints. I have been selected for top talent tracks at ByteDance, Alibaba, Tencent, Ant Group, and Huawei.
 </p>
 <p style="margin: 30px 0;"></p>
 
